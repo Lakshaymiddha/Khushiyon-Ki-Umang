@@ -901,6 +901,9 @@ header {
   transition:.6s ;
   transition-timing-function: ease;
 }
+.join_us_div{
+  float: left;
+}
 
 .join_us:hover{
   background-color: #6dce6d;
